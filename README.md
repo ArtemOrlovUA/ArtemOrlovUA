@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Artem and I am web developer. I have some skills in using JavaScript + React and JavaScript + Vue.
+My name is Artem and I am web developer. I have skills in using JavaScript + React.
 
 <!--
 **ArtemOrlovUA/ArtemOrlovUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
