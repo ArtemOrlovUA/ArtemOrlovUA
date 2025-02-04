@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Artem and I am web developer. I have skills in building web-applocations with using of JavaScript, React (also familiar with Next.js).
+My name is Artem and I am web developer. I have skills in building web-applocations with using of JavaScript, React (also familiar with Next.js, Tailwind, Redux).
 
 <!--
 **ArtemOrlovUA/ArtemOrlovUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
